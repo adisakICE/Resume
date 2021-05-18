@@ -1,7 +1,8 @@
 # My Resume
 Cloud server : Google Cloud Platform (GCP)
 
-Docker-compose
+Docker-compose #it's not on kubernetes
+
     |-portainer-agent
     |-portainer
     |-database (mariadb)
@@ -10,6 +11,12 @@ Docker-compose
     |-api (node.js,express)
     |-react-resume (react,redux,jQuery)
     |-react-ex (react,redux,@material-ui) # Product Compare
+
+
+react-resume
+
+    http://130.211.230.68:8089
+
+react-ex # Product Compare   
     
-my web : react-resume                 : http://130.211.230.68:8089
-         react-ex # Product Compare   : http://130.211.230.68:8090
+    http://130.211.230.68:8090
