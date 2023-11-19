@@ -11,12 +11,3 @@ Docker-compose #it's not on kubernetes
     |-api (node.js,express)
     |-react-resume (react,redux,jQuery)
     |-react-ex (react,redux,@material-ui) # Product Compare
-
-
-react-resume
-
-    http://130.211.230.68:8089
-
-react-ex # Product Compare   
-    
-    http://130.211.230.68:8090
